@@ -1,0 +1,17 @@
+C:\Users\ASUS VivoBook\Documents\Restaurant Project\Team Phenomenon\Team Phenomenon\bin\Debug\Team Phenomenon.exe.config
+C:\Users\ASUS VivoBook\Documents\Restaurant Project\Team Phenomenon\Team Phenomenon\bin\Debug\Team Phenomenon.exe
+C:\Users\ASUS VivoBook\Documents\Restaurant Project\Team Phenomenon\Team Phenomenon\bin\Debug\Team Phenomenon.pdb
+C:\Users\ASUS VivoBook\Documents\Restaurant Project\Team Phenomenon\Team Phenomenon\obj\Debug\Team_Phenomenon.Form1.resources
+C:\Users\ASUS VivoBook\Documents\Restaurant Project\Team Phenomenon\Team Phenomenon\obj\Debug\Team_Phenomenon.Properties.Resources.resources
+C:\Users\ASUS VivoBook\Documents\Restaurant Project\Team Phenomenon\Team Phenomenon\obj\Debug\Team Phenomenon.csproj.GenerateResource.cache
+C:\Users\ASUS VivoBook\Documents\Restaurant Project\Team Phenomenon\Team Phenomenon\obj\Debug\Team Phenomenon.csproj.CoreCompileInputs.cache
+C:\Users\ASUS VivoBook\Documents\Restaurant Project\Team Phenomenon\Team Phenomenon\obj\Debug\Team Phenomenon.exe
+C:\Users\ASUS VivoBook\Documents\Restaurant Project\Team Phenomenon\Team Phenomenon\obj\Debug\Team Phenomenon.pdb
+C:\Users\ASUS VivoBook\Documents\Restaurant Project\Team Phenomenon\Team Phenomenon\obj\Debug\Team_Phenomenon.UserControl1.resources
+C:\Users\ASUS VivoBook\Documents\Restaurant Project\Team Phenomenon\Team Phenomenon\obj\Debug\Team_Phenomenon.UserControl2.resources
+C:\Users\ASUS VivoBook\Documents\Restaurant Project\Team Phenomenon\Team Phenomenon\obj\Debug\Team_Phenomenon.Form2.resources
+C:\Users\ASUS VivoBook\Documents\Restaurant Project\Team Phenomenon\Team Phenomenon\obj\Debug\Team_Phenomenon.Burger.resources
+C:\Users\ASUS VivoBook\Documents\Restaurant Project\Team Phenomenon\Team Phenomenon\obj\Debug\Team_Phenomenon.UserControl3.resources
+C:\Users\ASUS VivoBook\Documents\Restaurant Project\Team Phenomenon\Team Phenomenon\obj\Debug\Team_Phenomenon.Menu.resources
+C:\Users\ASUS VivoBook\Documents\Restaurant Project\Team Phenomenon\Team Phenomenon\obj\Debug\Team_Phenomenon.UserControl4.resources
+C:\Users\ASUS VivoBook\Documents\Restaurant Project\Team Phenomenon\Team Phenomenon\obj\Debug\Team_Phenomenon.Bill.resources
